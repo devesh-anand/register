@@ -1,0 +1,12 @@
+{
+    "description": "Devesh's portfolio website",
+    "repo": "https://github.com/devesh-anand/dev-portfolio",
+    "owner": {
+        "username": "devesh-anand",
+        "email": "",
+        "twitter": "deveshanand18"
+    },
+    "record": {
+       "CNAME": "dev18-portfolio.netlify.app"
+    }
+  }
